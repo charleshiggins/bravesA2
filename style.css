@@ -1,0 +1,16 @@
+.content{
+    width: 100%;
+    text-align:center;
+    font-family: "helvetica";
+}
+table {
+    margin: 0px auto; 
+
+}
+td { 
+    padding: 10px; 
+}
+
+body{
+    background-color: #F0F8FF;
+}
